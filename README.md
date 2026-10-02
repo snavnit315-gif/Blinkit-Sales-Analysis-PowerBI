@@ -140,7 +140,7 @@ The dashboard helps identify:
 
 ### Overview Dashboard
 
-![Overview Dashboard](Overview_Dashboard.png)
+![Overview Dashboard](Project_Info_page.png)
 
 ---
 
@@ -152,8 +152,8 @@ The dashboard helps identify:
 | `Blinkit_Grocery_Data.xlsx` | Source dataset |
 | `Blinkit_Sales_Analysis_Dashboard.png` | Main dashboard screenshot |
 | `Product_and_Sales_Analysis.png` | Product analysis screenshot |
-| `Overview_Dashboard.png` | Overview screenshot |
-| `Project_Overview.pdf` | Project documentation |
+| `Project_Info_page.png` | Project Information screenshot |
+
 
 ---
 
