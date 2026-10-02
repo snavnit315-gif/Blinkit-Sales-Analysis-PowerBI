@@ -138,9 +138,9 @@ The dashboard helps identify:
 
 ![Product and Sales Analysis](Product_and_Sales_Analysis.png)
 
-### Overview Dashboard
+### Project Info Dashboard
 
-![Overview Dashboard](Project_Info_page.png)
+![Project Info Dashboard](Project_Info_page.png)
 
 ---
 
