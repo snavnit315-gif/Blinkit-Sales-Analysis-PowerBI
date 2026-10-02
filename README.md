@@ -132,15 +132,15 @@ The dashboard helps identify:
 
 ### Blinkit Sales Analysis Dashboard
 
-![Blinkit Sales Analysis Dashboard](./Blinkit_Sales_Analysis_Dashboard.png)
+![Blinkit Sales Analysis Dashboard](./PowerBI/Blinkit_Sales_Analysis_Dashboard.png)
 
 ### Product & Sales Analysis
 
-![Product and Sales Analysis](./Product_and_Sales_Analysis.png)
+![Product and Sales Analysis](./PowerBI/Product_and_Sales_Analysis.png)
 
 ### Project Info Dashboard
 
-![Project Info Dashboard](./Project_Info_page.png)
+![Project Info Dashboard](./PowerBI/Project_Info_page.png)
 
 ---
 
